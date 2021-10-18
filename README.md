@@ -30,3 +30,15 @@ scripts/asmote.asmote-data.multi_run.predict_test.sh
 
 ## evaluate
 scripts/evaluate.sh
+
+# Citation
+```
+@inproceedings{wang2021aspect,
+  title={Aspect-Sentiment-Multiple-Opinion Triplet Extraction},
+  author={Wang, Fang and Li, Yuncong and Zhong, Sheng-hua and Yin, Cunxiang and He, Yancheng},
+  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+  pages={583--594},
+  year={2021},
+  organization={Springer}
+}
+```
